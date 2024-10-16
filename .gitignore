@@ -69,6 +69,8 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/**/Intermediate/*
+Content/__ExternalActors__/**/*.uasset
+Content/__ExternalObjects__/**/*.uasset
 
 # Cache files for the editor to use
 DerivedDataCache/*
